@@ -1,1 +1,1 @@
-# test-taskls, rm, cd, mkdir, touch, mv, clone, push, add, commit, merge
+ls, rm, cd, mkdir, touch, mv, clone, push, add, commit, merge
